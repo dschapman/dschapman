@@ -7,7 +7,9 @@ My name is Daniel. I write poems, articles, and tinker with code. My background 
 
 #### 🌱 I’m currently learning 
 - GatsbyJS / React
+- SwiftUI to build my first app
 - Doom Emacs / Org-Roam ([Check out my Doom dot files](https://github.com/dschapman/.dot_files/tree/master/.doom.d))
+  - Curious to configure this for word processing / writing long form prose.
 
 
 <!--
