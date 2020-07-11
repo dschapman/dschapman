@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Daniel. I write poems and tinker with code.
+
+#### 🔭 I’m currently working on 
+- Maintaining [my website](/dschapman/my-website), built with GatsbyJS and with functioning link previews
+
+#### 🌱 I’m currently learning 
+- Doom Emacs / Org-Roam
 
 <!--
 **dschapman/dschapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
