@@ -1,5 +1,11 @@
-<img src="https://github.com/dschapman/dschapman/blob/master/daniel-octocat.png" alt="my octocat" width="300"/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
 
+<img src="https://github.com/dschapman/dschapman/blob/master/daniel-octocat.png" alt="my octocat" width="400"/>
+</td>
+  <td>
+  
 ### Hi there 👋 
 
 My name is Daniel. I write poems, articles, take pictures, and tinker with code.
@@ -18,17 +24,9 @@ My name is Daniel. I write poems, articles, take pictures, and tinker with code.
 - Cybersecurity
 - Non-profit Communications
 
-<!--
-**dschapman/dschapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
