@@ -1,6 +1,8 @@
+<img src="octocat.png" alt="my octocat" width="300"/>
+
 ### Hi there 👋 
 
-My name is Daniel. I write poems, articles, and tinker with code.
+My name is Daniel. I write poems, articles, take pictures, and tinker with code.
 
 ### 🔭 I’m currently working on 
 - Maintaining [my website](/dschapman/my-website), built with GatsbyJS and complete with functioning link previews.
