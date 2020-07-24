@@ -1,4 +1,4 @@
-<img src="./daniel-octocat.png" alt="my octocat" width="300"/>
+<img src="https://github.com/dschapman/dschapman/blob/master/daniel-octocat.png" alt="my octocat" width="300"/>
 
 ### Hi there 👋 
 
