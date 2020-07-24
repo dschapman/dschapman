@@ -1,9 +1,8 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-
 <img src="https://github.com/dschapman/dschapman/blob/master/daniel-octocat.png" alt="my octocat" width="400"/>
-</td>
+    </td>
   <td>
   
 ### Hi there 👋 
