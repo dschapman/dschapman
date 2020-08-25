@@ -14,7 +14,7 @@ My name is Daniel. I write poems, articles, take pictures, and tinker with code.
 
 ### 🌱 I’m currently learning 
 - GatsbyJS / React
-- Svelte
+- Svelte ([I wrote my portfolio in Svelte](https://danielchapman.dev))
 - Doom Emacs / Org-Roam ([Check out my Doom dot files](https://github.com/dschapman/.dot_files/tree/master/.doom.d))
   - Curious to configure this for word processing / writing long form prose.
 - Git
