@@ -12,9 +12,9 @@ My name is Daniel. I am a creative, technical professional with experience in cy
 - Maintaining [my website](/dschapman/my-website)
 
 ### 🌱 I’m currently learning 
-- React
+- React - By going through [Epic React](https://epicreact.dev)
 - Svelte 
-- HTML & CSS
+- HTML & CSS 
 - Doom Emacs / Org-Roam ([Check out my Doom dot files](https://github.com/dschapman/.dot_files/tree/master/.doom.d))
   - Curious to configure this for word processing / writing long form prose.
 - Git
