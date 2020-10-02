@@ -9,7 +9,8 @@ My name is Daniel. I am a creative, technical professional with experience in cy
 - [Twitter](https://twitter.com/ds_chapman)
 
 ### 🔭 I’m currently working on 
-- Maintaining [my website](/dschapman/my-website)
+- Maintaining and improving [my website](/dschapman/my-website)
+- Creating a web app that allows you to download all the podcasts from an RSS feed. ([my current starting point](https://github.com/dschapman/get-podcasts-from-rss-feed))
 
 ### 🌱 I’m currently learning 
 - React - By going through [Epic React](https://epicreact.dev)
