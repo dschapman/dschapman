@@ -1,7 +1,7 @@
 
 ## Hi there 👋 
 
-My name is Daniel. I am a creative, technical professional with experience in cybersecurity, communications, writing, and web development.
+My name is Daniel. I am a creative, technical professional with experience in cybersecurity, communications, writing, and web development looking for full time web development work.
 
 ### 🔗 Links
 - [My Personal Site](https://dschapman.com) - A [digital garden](https://dschapman.com/notes/digital-garden) built with React and Gatsby containing my articles, notes, and poetry.
@@ -10,7 +10,7 @@ My name is Daniel. I am a creative, technical professional with experience in cy
 
 ### 🔭 I’m currently working on 
 - Maintaining and improving [my website](/dschapman/my-website)
-- Creating a web app that allows you to download all the podcasts from an RSS feed. ([my current starting point](https://github.com/dschapman/get-podcasts-from-rss-feed))
+- Creating [a web app](/dschapman/get-podcasts-from-rss-feed) that allows you to download all the podcasts from an RSS feed. 
 
 ### 🌱 I’m currently learning 
 - React - By going through [Epic React](https://epicreact.dev)
@@ -21,8 +21,8 @@ My name is Daniel. I am a creative, technical professional with experience in cy
 - Git
 
 ### 💼 I've worked in
-- Cybersecurity
-- Non-profit Communications
+- Cybersecurity (2.5 Years)
+- Non-profit Communications (1+ Year)
 
 
 
