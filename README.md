@@ -20,10 +20,6 @@ My name is Daniel. I am a creative, technical professional with experience in cy
   - Curious to configure this for word processing / writing long form prose.
 - Git
 
-### 💼 I've worked in
-- Cybersecurity (2.5 Years)
-- Non-profit Communications (1+ Year)
-
 
 
 
